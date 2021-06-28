@@ -18,6 +18,7 @@ public class BST<T extends Comparable, E extends Comparable> implements BSTInter
 	}
 
 	public class BSTNode {
+		int v;
 		T key;
 		E value;
 		BSTNode left;
