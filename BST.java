@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 import java.util.HashMap;
-
+// BST
 public class BST<T extends Comparable, E extends Comparable> implements BSTInterface<T, E> {
 	/*
 	 * Do not touch the code inside the upcoming block If anything tempered your
